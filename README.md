@@ -32,4 +32,4 @@ The system uses a text file as a lightweight database, making it easy to demonst
  🎥 Project Demo Video
 
 Watch the full project in action:  
-[View Video Demo](https://drive.google.com/file/d/1H8bhc41M3mI641CD6IUOF_AL4-oVQhoL/view?usp=drive_link)
+(https://drive.google.com/file/d/1H8bhc41M3mI641CD6IUOF_AL4-oVQhoL/view?usp=drive_link)
